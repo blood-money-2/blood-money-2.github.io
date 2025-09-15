@@ -1,7 +1,47 @@
 [
     {
+        "name": "BLOODMONEY 2",
+        "slug": "bloodmoney-2",
+        "image": "/cache/data/image/game/bloodmoney-2/bloodmoney-2-m186x186.webp"
+    },
+    {
         "name": "BLOODMONEY!",
         "slug": "bloodmoney",
         "image": "/cache/data/image/game/bloodmoney/bloodmoney-m186x186.webp"
+    },
+    {
+        "name": "Human Expenditure Program",
+        "slug": "human-expenditure-program",
+        "image": "/cache/data/image/game/human-expenditure-program/human-expenditure-program-game-m186x186.webp"
+    },
+    {
+        "name": "LOVEMONEY!",
+        "slug": "lovemoney",
+        "image": "/cache/data/image/game/lovemoney/lovemoney-m186x186.webp"
+    },
+    {
+        "name": "Customer Support",
+        "slug": "customer-support",
+        "image": "/cache/data/image/game/customer-support/customer-support-m186x186.webp"
+    },
+    {
+        "name": "Dead Plate",
+        "slug": "dead-plate",
+        "image": "/cache/data/image/game/dead-plate/dead-plate-m186x186.webp"
+    },
+    {
+        "name": "The Freak Circus",
+        "slug": "the-freak-circus",
+        "image": "/cache/data/image/game/the-freak-circus/the-freak-circus-m186x186.webp"
+    },
+    {
+        "name": "Elevator Hitch",
+        "slug": "elevator-hitch",
+        "image": "/cache/data/image/game/elevator-hitch/elevator-hitch-m186x186.webp"
+    },
+    {
+        "name": "Exhibit of Sorrows",
+        "slug": "exhibit-of-sorrows",
+        "image": "/cache/data/image/game/exhibit-of-sorrows/exhibit-of-sorrows-m186x186.webp"
     }
 ]
